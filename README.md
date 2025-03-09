@@ -7,7 +7,7 @@ You can try the application yourself here:
 
 # Project Description
 ## 1. **Real-time Error Detection with BLIV Dashboard**  
-   ![Dashboard overall flow](https://github.com/nugrahazikry/RAG-Enhanced-AI-for-Industrial-Alarm-Diagnostics/blob/main/images/dashboard%20overall%20flow.gif)
+   ![Dashboard overall flow](https://github.com/nugrahazikry/RAG-Enhanced-AI-for-Industrial-Alarm-Diagnostics/blob/main/images/dashboard%20overall%20flow.png)
    
    This project implements a real-time production flow monitoring dashboard integrated within the BLIV system, designed to detect errors at specific points in industrial machinery. By continuously monitoring production processes, the BLIV dashboard enables manufacturers to rapidly identify malfunctions or inefficiencies, reducing the risk of prolonged downtime. The system provides instant notifications and diagnostic insights, allowing maintenance teams to take immediate corrective action. This proactive approach enhances operational efficiency and ensures smoother production workflows.
 
